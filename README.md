@@ -13,7 +13,7 @@ This Custom Connector allows you to get and visualize data from the following AP
 
 Step 1: Get the key and domain for your API account
 
-Step 2: Download TelematicsAPI.mez file from [telematics-pbi-connector/debug](https://github.com/novemdata/telematics-pbi-connector/tree/main/debug) folder in this repository
+Step 2: Download TelematicsAPI.mez file from [telematics-pbi-connector/build](https://github.com/novemdata/telematics-pbi-connector/tree/main/build) folder in this repository
 
 Step 3: Copy this file under C:\Users\\\<Your_User_Name>\\Documents\Microsoft Power BI Desktop\Custom Connectors
 
