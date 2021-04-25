@@ -1,9 +1,9 @@
 # Microsoft Power BI Custom Data Connector
-This is a repository of custom data connectors to Power BI developed by [max-zorn](https://github.com/max-zorn)
+This is a repository of Power BI custom data connector developed by [max-zorn](https://github.com/max-zorn)
 
 ## The Telematics API Connector
 
-This Custom Connector allows you to get and visualize data from the following API methods:
+This custom data connector allows you to get and visualize data from the following API methods:
 - CompareScoring
 - CrashList
 - Vouchers
