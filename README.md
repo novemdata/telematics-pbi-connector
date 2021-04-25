@@ -1,5 +1,5 @@
 # Microsoft Power BI Custom Data Connectors
-This is a repository of custom data connectors to Power BI developed by team at [https://github.com/max-zorn][max-zorn]
+This is a repository of custom data connectors to Power BI developed by [https://github.com/max-zorn](max-zorn)
 
 ## The Telematics API Connector
 
@@ -13,7 +13,7 @@ This Custom Connector allows you to get and visualize data from the following AP
 
 Step 1: Get the key and domain for your API account
 
-Step 2: Download TelematicsAPI.mez file from [https://github.com/novemdata/telematics-pbi-connector/tree/main/debug][telematics-pbi-connector/debug] folder in this repository
+Step 2: Download TelematicsAPI.mez file from [https://github.com/novemdata/telematics-pbi-connector/tree/main/debug](telematics-pbi-connector/debug) folder in this repository
 
 Step 3: Copy this file under C:\Users\\\<Your_User_Name>\\Documents\Microsoft Power BI Desktop\Custom Connectors
 
