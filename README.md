@@ -1,5 +1,5 @@
 # Microsoft Power BI Custom Data Connector
-This is a repository of Power BI custom data connector developed by [max-zorn](https://github.com/max-zorn). Data Connectors are created using the M language. Please see the [Power Query Connector Developer Reference](https://docs.microsoft.com/en-us/power-query) for more details. Feel free to modify the code from  [telematics-pbi-connector/code](https://github.com/novemdata/telematics-pbi-connector/tree/main/code) under your own needs using the [https://github.com/microsoft/DataConnectors#quickstart](official manual).
+This is a repository of Power BI custom data connector developed by [max-zorn](https://github.com/max-zorn). Data Connectors are created using the M language. Please see the [Power Query Connector Developer Reference](https://docs.microsoft.com/en-us/power-query) for more details. Feel free to modify the code from  [telematics-pbi-connector/code](https://github.com/novemdata/telematics-pbi-connector/tree/main/code) under your own needs using the [official manual](https://github.com/microsoft/DataConnectors#quickstart).
 
 ## The Telematics API Connector
 
